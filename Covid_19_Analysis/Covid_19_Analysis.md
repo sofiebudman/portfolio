@@ -18,6 +18,16 @@
 
 -   I used Galaxy Clustal for sequence alignment
 
+### Results
+
+Phylogenetic Tree
+
+![](phylogenetic_tree.png){width="458"}
+
+COVID 19 Confirmed Cases and Events Timeline
+
+![](covid_19_timeline.png){width="497"}
+
 ### Packages/Requirements
 
 Install the required packages
