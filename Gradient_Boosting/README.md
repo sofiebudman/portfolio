@@ -8,7 +8,15 @@
 
 -   Gradient boosting is typically performed using an R package such as XGBoost, but to further my understanding of the process, I decided to make it more manually
 
--   I also implemented a learning rate to ensure that the model is not overfit
+-   I also implemented a learning rate to ensure that the model is not over fit
+
+### Results
+
+-   As expected, when creating the gradient boosting model, the accuracy was significantly better than that of a single decision tree
+
+-   The graph below shows the accuracy rate of the boosted model after different number of iterations of boosting
+
+    ![Gradient Boosting Accuracy Comparison](gradient_boosting_accuracy_comparison.png){width="343"}
 
 ### Packages/Requirements
 
