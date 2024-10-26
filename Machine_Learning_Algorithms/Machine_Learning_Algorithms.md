@@ -10,7 +10,7 @@
 
 Install Required Packages
 
-``` R
+``` r
 install.packages("caret")
 install.packages("class")
 install.packages("tidyverse")
@@ -24,7 +24,7 @@ install.packages('randomForest')
 
 Load Required Packages
 
-``` R
+``` r
 library(caret)
 library(class) 
 library(tidyverse)
